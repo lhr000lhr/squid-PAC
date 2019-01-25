@@ -1,4 +1,4 @@
-var proxy = "PROXY kickass-hopper-5456.arukascloud.io:443;";
+var proxy = "HTTPS kickass-hopper-5456.arukascloud.io;";
 
 var domains = {
   "*.google": 1,
