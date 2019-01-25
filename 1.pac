@@ -1,4 +1,4 @@
-var proxy = "PROXY serene-pasteur-9119.arukascloud.io:443;";
+var proxy = "PROXY kickass-hopper-5456.arukascloud.io:443;";
 
 var domains = {
   "*.google": 1,
