@@ -1,4 +1,4 @@
-var proxy = "PROXY 你的ip地址:25;";
+var proxy = "PROXY serene-pasteur-9119.arukascloud.io:443;";
 
 var domains = {
   "*.google": 1,
